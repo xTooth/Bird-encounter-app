@@ -34,7 +34,7 @@ And then for the tricky part. create a local file called .env in which you need 
 MONGODB_URI= <here goes YOUR very own MongoDB URI behind which there should be an empty or a compatible dataset>
 PORT=3001
 ```
-after this both the front end and the back end should build after runnoing the command: ```npn install``` in the root of their respective directories.
+after this both the front end and the back end should build after running the command: ```npm install``` in the root of their respective directories.
 Running the application is done by:
 
 backend:
